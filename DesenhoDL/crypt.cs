@@ -7,6 +7,7 @@ using System.IO;
 using System.Security.Cryptography;
 
 namespace DesenhoDL {
+    // bom dia grupo
     class Crypt {
 
         public static byte[] PadIV(Int64 _iv) {
